@@ -35,7 +35,7 @@ I'm a passionate backend software developer with experience in building scalable
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
 
-#...among others
+...among many others
 
 ## 📈 GitHub Stats
 
@@ -46,7 +46,7 @@ I'm a passionate backend software developer with experience in building scalable
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-mario-sanchez-vasquez-794b7728)
-[![X](https://img.shields.io/badge/X-@username-1DA1F2?logo=x&logoColor=white)](https://x.com/blockchainer_cr)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-0088cc?logo=telegram)](https://x.com/blockchainer_cr)
+[![X](https://img.shields.io/badge/X-@blockchainer_cr-1DA1F2?logo=x&logoColor=white)](https://x.com/blockchainer_cr)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-0088cc?logo=telegram)](https://t.me/blockchainer_cr)
 
 ---
