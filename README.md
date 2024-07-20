@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate backend software developer with experience in building scalable and efficient applications. I love working with new technologies and am always eager to learn and grow.
+I'm a passionate software developer with experience in building scalable and efficient applications. I love working with new technologies and am always eager to learn and grow.
 
 - 🌱 I’m currently deeply engaged in web3 and blockchain development
 - 👯 I’m looking to collaborate on open source projects
